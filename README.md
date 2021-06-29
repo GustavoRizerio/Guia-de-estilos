@@ -7,7 +7,7 @@ curso de Guia de estilos da Alura.
 
 <div align="center">
 
-The **Casa verde** is a project done with HTML5 and CSS3
+The **Casa verde** is a project made with HTML5 and CSS3
 </div> 
 
 ## :rocket: Technology
